@@ -10,5 +10,8 @@ My cybersecurity and python learning journey
 
 ## DAY-2 (28 April 26)
 - Completed Bandit Levels 2, 3 and 4
-- Learned: spaces in filenames, hidden files, navigating folders
+- Learned: - Spaces in filenames → use quotes or Tab autocomplete
+           - Hidden files → use ls -la to reveal them
+           - Navigate folders → cd foldername
+
 - Practiced Python calculator program
