@@ -21,3 +21,11 @@ My cybersecurity and python learning journey
 - Understood how Linux command syntax works (command -option target)
 - Learned Python for loops — looping through a list one by one
 - Practiced Python list program
+
+## Day 4 — 30 April 2026
+- Completed Bandit Levels 6, 7 and 8
+- Learned: find with -user and -group flags, 2>/dev/null to hide errors
+- Learned: grep — searching inside files (used by security analysts daily)
+- Learned Python dictionaries — key value pairs
+- Learned for loops on dictionaries
+- Started reading OverTheWire instructions myself before asking for help
