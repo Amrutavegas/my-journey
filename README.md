@@ -29,3 +29,12 @@ My cybersecurity and python learning journey
 - Learned Python dictionaries — key value pairs
 - Learned for loops on dictionaries
 - Started reading OverTheWire instructions myself before asking for help
+
+## Day 5 — 1 May 2026
+- Low motivation day but showed up anyway
+- Completed Bandit Levels 9 and 10
+- Learned: sort :- Sorts lines of text alphabetically or numerically
+-          uniq-u :- Prints only lines that appear exactly once (no duplicates)
+-          |(pipe) :-Sends output of one command as input to the next
+-          base64 :- Encodes/decodes binary data into plain ASCII text           -          strings :-Extracts printable text strings from binary files
+- Rest day for Python — back tomorrow
